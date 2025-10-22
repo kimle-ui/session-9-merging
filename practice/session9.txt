@@ -1,2 +1,6 @@
 playing with git
 I am practicing Centralised and Distributed
+
+
+
+my name is SA
